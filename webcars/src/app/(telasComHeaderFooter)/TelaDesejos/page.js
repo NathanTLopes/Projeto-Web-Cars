@@ -1,4 +1,7 @@
+import { useEffect } from 'react';
+import Image from 'next/image';
 import styled from "./listaDesejos.module.css";
+
 
 const carItens = [
     {
